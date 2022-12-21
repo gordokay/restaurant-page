@@ -1,5 +1,6 @@
 export default function home() {
   const content = document.getElementById('content');
+  
   const container = document.createElement('div');
 
   const h1 = document.createElement('h1');
