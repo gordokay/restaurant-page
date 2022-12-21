@@ -1,1 +1,1 @@
-alert("hi!!");
+(()=>{"use strict";!function(){const t=document.getElementById("content"),e=document.createElement("div"),n=document.createElement("h1");n.textContent="toast restaurant";const o=document.createElement("img");o.src="../src/toast.png",o.alt="A delicious slice of toast";const s=document.createElement("p");s.textContent="toast restaurant is your one-stop shop for all things toast",e.append(n,o,s),t.append(e)}()})();

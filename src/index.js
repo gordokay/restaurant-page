@@ -1,1 +1,3 @@
-alert('hi!!');
+import home from './home';
+
+home();
